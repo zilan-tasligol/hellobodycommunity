@@ -1,0 +1,26 @@
+.container{
+	width: 800px;
+	margin:0 auto;
+	text-align: center; 
+	text-align: justify;
+}
+.container{
+	width: 700px;
+
+}
+.container {
+	width:500px;
+
+}
+.container img{
+	width: 250px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+.container{
+	display: flex;
+flex-direction: column;
+}
